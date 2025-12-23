@@ -1,3 +1,5 @@
+
+
 ---
 
 # 🕵️‍♂️ CrimeLens
@@ -210,6 +212,7 @@ CrimeLens/
 
 ---
 
+
 ---
 
 ## ⚠️ Disclaimer
@@ -224,5 +227,3 @@ Predictions and safety routes are based on historical data and algorithms and sh
 Distributed under the **MIT License**.
 
 ---
-
-
